@@ -22,4 +22,4 @@ https://legendary-flannel-spectroscope.glitch.me/api/races/season/2032 - Returns
 https://legendary-flannel-spectroscope.glitch.me/api/results/race/1100 - Returns details on the results of the specified race.\
 https://legendary-flannel-spectroscope.glitch.me/api/results/race/1756348576 - Returns a message explaining that the results of the specified race could not be found.\
 https://legendary-flannel-spectroscope.glitch.me/api/results/season/2023 - Returns details on all race results of the specified year.\
-https://legendary-flannel-spectroscope.glitch.me/api/results/season/2034 - Returns a message explaining that results could not be found for the specified year.\
+https://legendary-flannel-spectroscope.glitch.me/api/results/season/2034 - Returns a message explaining that results could not be found for the specified year.
